@@ -1,0 +1,26 @@
+# Site settings
+title: Abgedreht
+email: info@abgedreht-karlsruhe.de
+url: https://abgedreht-karlsruhe.de
+description: "Die Filmgruppe am KIT."
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#d81b34'
+
+# Footer settings
+footer: Abgedreht
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://facebook.com/abgedrehtKarlsruhe
+  - title: youtube
+    url: https://youtube.com/user/AbgedrehtKarlsruhe
+  - title: slack
+    url: https://abgedrehtkit.slack.com
+
+# Build settings
+markdown: kramdown
+permalink: pretty
